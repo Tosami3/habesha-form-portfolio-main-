@@ -1,0 +1,143 @@
+.dom{
+ 
+}
+
+
+
+.i-header{
+  height: 77vh;
+    max-width: 350px;
+    max-height: 400px;
+    margin: 20px;
+    display: inline-block;
+    padding: 20px;
+    
+    justify-content: space-between;
+    object-fit: cover;
+    
+    
+    
+   
+}
+
+.i-header-left{
+ 
+margin: 25px;
+
+    
+   
+
+}
+.i-header-left:hover{
+  
+  
+ 
+}
+.i-header-left>:nth-child(1){
+  height: 200px;
+  width: 200px;
+}
+
+.i-header-left>:nth-child(2){
+  
+  color:palegreen;
+  text-align: center;
+  text-transform: lowercase;
+  font-weight: bold;
+  font-size: 3rem;
+  margin: 5px;
+
+  
+}
+.i-header-left>:nth-child(3){
+  
+  color:black;
+    text-align: center;
+    text-transform: lowercase;
+    font-weight: bold;
+    font-size:15px;
+    margin-right: 1rem;
+  display: flex;
+
+}
+.i-image{
+
+}
+
+.i-p{
+  
+  height: 77vh;
+  max-width: 350px;
+  max-height: 400px;
+  margin: 20px;
+  
+  padding: 20px;
+  grid-template-columns: 3fr 1fr 2fr;
+  justify-content: space-between;
+  object-fit: cover;
+  
+  display: inline-block;
+  
+  
+  border-radius: 3rem;
+   justify-items: center;
+ align-items: flex-start;
+position: relative;;
+}
+.ipp{
+ 
+margin: 20px;
+
+}
+.i-ppp{
+  background-color:green;
+border:1rem solid orange;
+border-radius: 2rem;
+}
+.i-ppp:hover{
+  background-color: palevioletred;
+  color: blueviolet;
+  transition: 5s;
+}
+
+.i-pp>:nth-child(1){
+  text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color:black;
+    font-size: 1rem;
+    margin: 10px;
+    display: flex;
+    margin-left: 3rem;
+
+  
+}
+.i-pp>:nth-child(2){
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  color:orange;
+  font-size: 15px;
+  margin: 10px;
+  display: flex;
+ 
+}
+.i-pp>:nth-child(3){
+  text-align: center;
+    text-decoration: none;
+    text-transform: uppercase;
+    color:palevioletred;
+    font-size: 15px;
+    margin: 10px;
+    display: flex;
+   
+
+}
+
+.i-image>:nth-child(1) {
+  height: 100px;
+width: 100px;
+}
+.s{
+  
+}
